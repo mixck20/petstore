@@ -41,7 +41,7 @@ const PetAdd = () => {
       flexDirection: 'column',
       alignItems: 'center' // This centers horizontally
     }}>
-      <h2 style={{ marginTop: 0 }}>Add New Pet</h2>
+      <h2 style={{ marginTop: 0 }}>Add Pet</h2>
       <form onSubmit={handleSubmit} style={{ 
         display: 'flex', 
         flexDirection: 'column', 
