@@ -159,7 +159,7 @@ const App = () => {
             minWidth: '140px'
           }}
         >
-          Add New Pet
+          Add Pet
         </button>
       </div>
 
